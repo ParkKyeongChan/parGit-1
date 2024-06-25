@@ -25,6 +25,5 @@
 - **Version** : Java 11
 - **IDE** : IntelliJ
 - **Framework** : SpringBoot 2.7.11
-- ![image](https://github.com/ParkKyeongChan/parGit-1/assets/154895700/fa52a18a-3cff-405f-9ffc-d783cca78ffb)
 
 
