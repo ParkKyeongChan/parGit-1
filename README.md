@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 ## 개발환경
-- **Version** : Java 17
+- **Version** : Java 11
 - **IDE** : IntelliJ
 - **Framework** : SpringBoot 2.7.11
-- **ORM** : JPA
+
