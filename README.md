@@ -26,4 +26,8 @@
 - **IDE** : IntelliJ
 - **Framework** : SpringBoot 2.7.11
 
+<<<<<<< HEAD
 ## 789789
+=======
+
+>>>>>>> 45af0ad653f1072d88d2298cdec933e456fc6aa2
