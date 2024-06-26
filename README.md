@@ -25,9 +25,6 @@
 - **Version** : Java 11
 - **IDE** : IntelliJ
 - **Framework** : SpringBoot 2.7.11
+- **Database** : MySql
+- **ORM**      : JPA
 
-<<<<<<< HEAD
-## 789789
-=======
-
->>>>>>> 45af0ad653f1072d88d2298cdec933e456fc6aa2
